@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipeslubie placki
